@@ -9,7 +9,7 @@ import { networks } from './utils/networks';
 
 // Add the domain you will be minting
 const tld = '.keyes';
-const CONTRACT_ADDRESS = '0xfE9F84e0AfbfEAEBbBA966c61360991886a476Cc';
+const CONTRACT_ADDRESS = '0xAdAE6d998Dd8AcA47EF1Afb7b3E781be02ea3544';
 
 const App = () => {
   const [mints, setMints] = useState([]);
